@@ -1,6 +1,6 @@
 # SlimBuddy Gereksinim Analizi Belgesi
 
-# 1.1Sistemin Amacı
+# 1.1 Sistemin Amacı
 
 SlimBuddy programı kullanıcıların günlük kalori takiplerini yapmalarına ve öğünlerini planlayıp, 
 
