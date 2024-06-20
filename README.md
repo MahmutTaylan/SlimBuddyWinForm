@@ -278,8 +278,30 @@ kullanıcılarla kıyaslamasını yapabilmesini sağlar.
 
 Summary Screen: Bu ekran kullanıcının o gün yediği öğünleri görebilmesini ve dilerse silebilmesini 
 
+
 sağlar.
 
 Account Screen: Kullanıcının e-mail adresini,yaşını,boyunu kilosunu gösteren ve bu bilgilerden 
 
 güncellemek istediklerini güncellemesini sağlayan ekrandır.
+
+
+![](https://github.com/MahmutTaylan/SlimBuddyWinForm/blob/main/Create%20Account%20Ekrani.png)
+
+![](https://github.com/MahmutTaylan/SlimBuddyWinForm/blob/main/Giris%20Ekrani.png)
+
+![](https://github.com/MahmutTaylan/SlimBuddyWinForm/blob/main/Admin%20Login%20Ekrani.png)
+
+![](https://github.com/MahmutTaylan/SlimBuddyWinForm/blob/main/Account%20Information%20Ekrani.png)
+
+![](https://github.com/MahmutTaylan/SlimBuddyWinForm/blob/main/Admin%20Panel%20Ekrani.png)
+
+![](https://github.com/MahmutTaylan/SlimBuddyWinForm/blob/main/Food%20Ekleme%20Ekrani.png)
+
+![](https://github.com/MahmutTaylan/SlimBuddyWinForm/blob/main/Gunluk%20Kalori%20Ekrani.png)
+
+![](https://github.com/MahmutTaylan/SlimBuddyWinForm/blob/main/Gunluk%20Ogun%20Ozeti%20Ekrani.png)
+
+![](https://github.com/MahmutTaylan/SlimBuddyWinForm/blob/main/Ogun%20Ekleme%20Ekrani.png)
+
+![](https://github.com/MahmutTaylan/SlimBuddyWinForm/blob/main/Analiz%20Ekrani.png)
