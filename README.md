@@ -1,7 +1,6 @@
 # SlimBuddy Gereksinim Analizi Belgesi
-1.Giriş
 
-1.1Sistemin Amacı
+# 1.1Sistemin Amacı
 
 SlimBuddy programı kullanıcıların günlük kalori takiplerini yapmalarına ve öğünlerini planlayıp, 
 
@@ -9,7 +8,7 @@ SlimBuddy programı kullanıcıların günlük kalori takiplerini yapmalarına v
 
 tasarlanmıştır.
 
-1.2 Sistemin Kapsamı
+# 1.2 Sistemin Kapsamı
 
 Program, kullanıcıların günlük öğünlerini izlemelerine yardımcı olacak bir WinForm uygulaması olarak 
 
@@ -25,7 +24,7 @@ kullanarak günlük alması gereken kilo miktarını hesaplayacaktır.
 
 iv. Kullanıcılar, programda bulunmayan bir yiyeceği sisteme ekleyebileceklerdir.
 
-1.3 Projenin hedefleri ve başarı kriterleri
+# 1.3 Projenin hedefleri ve başarı kriterleri
 
 i. Kullanıcıların kolayca yeni hesaplar oluşturabilmesi ve oturum açabilmesi.
 
@@ -47,7 +46,7 @@ ve hedefleri temsil eder. Bu hedefler projenin gereksinimlerini ve kullanıcı i
 
 şekilde belirlenmiştir.
 
-1.4 Tanımlar , kısaltmalar 
+# 1.4 Tanımlar , kısaltmalar 
 
 i. GAB: Gereksinim Analizi Belgesi
 
@@ -69,7 +68,7 @@ iii. Benzer uygulamaların analiz belgeleri
 
 iv. MS SQL Server dökümantasyonu
 
-Kullanılan Teknolojiler
+# Kullanılan Teknolojiler
 
 i. Geliştirme Ortamı: Ms Visual Studio 2022
 
@@ -85,7 +84,7 @@ vi. Arayüz Tasarımı: Windows Forms Application
 
 vii. Versiyon Kontrol Sistemi: Git
 
-1.6 Genel Bakış
+# 1.6 Genel Bakış
 
 Bu belge, SlimBuddy programının gereksinimlerini belirlemek ve analiz etmek için oluşturulmuştur. 
 
@@ -101,9 +100,9 @@ dostu bir arayüzle tasarlanacak ve temel işlevselliği kolayca erişilebilir h
 
 Bu belge proje ekibi ve ilgili taraf arasında bir anlayış ve birlik sağlamak için kullanılacaktır.
 
-2.Önerilen Sistem
+# 2.Önerilen Sistem
 
-2.1 Genel Bakış
+# 2.1 Genel Bakış
 
 Sistem kullanıcıların günlük kalori alımlarını izlemelerini sağlamak, öğünlerini planlamalarına ve 
 
@@ -135,7 +134,7 @@ yapabilir.
 
 Gün Sonu Raporu : İlgili gün kullanıcı yediği öğünlerin kcal olarak toplamını görebilir.
 
-2.2 Fonksiyonel Gereksinimler (“listeler”)
+# 2.2 Fonksiyonel Gereksinimler (“listeler”)
 
 A) Kullanıcı İşlevselliği
 
@@ -274,8 +273,13 @@ Daily Calorie Screen: Kullanıcının günlük aktivite seviyesine göre kalori 
 ekrandır. Bu ekranda kullanıcı ilgili gün içerisindeki öğünlerinin toplam kalorisini görebilir.
 
 Analysis Screen: Bu ekran kullanıcı öğünlerinin, günlük ve haftalık bazda kendisiyle ve diğer 
+
 kullanıcılarla kıyaslamasını yapabilmesini sağlar.
+
 Summary Screen: Bu ekran kullanıcının o gün yediği öğünleri görebilmesini ve dilerse silebilmesini 
+
 sağlar.
+
 Account Screen: Kullanıcının e-mail adresini,yaşını,boyunu kilosunu gösteren ve bu bilgilerden 
+
 güncellemek istediklerini güncellemesini sağlayan ekrandır.
